@@ -1,0 +1,37 @@
+Sent: Ping #0 Wed Oct 25 19:40:32 2023
+#0 Requested Time out
+
+Sending Heartbeat
+Sent: Ping #1 Wed Oct 25 19:40:43 2023
+#1 Requested Time out
+
+Sent: Ping #2 Wed Oct 25 19:40:54 2023
+Receiveb'PING #2 WED OCT 25 19:40:54 2023'
+8.7738037109375e-05
+Sent: Ping #3 Wed Oct 25 19:40:54 2023
+#3 Requested Time out
+
+Sent: Ping #4 Wed Oct 25 19:41:05 2023
+Receiveb'PING #4 WED OCT 25 19:41:05 2023'
+8.249282836914062e-05
+Sent: Ping #5 Wed Oct 25 19:41:05 2023
+#5 Requested Time out
+
+Sending Heartbeat
+Sent: Ping #6 Wed Oct 25 19:41:16 2023
+Receiveb'PING #6 WED OCT 25 19:41:16 2023'
+6.29425048828125e-05
+Sent: Ping #7 Wed Oct 25 19:41:16 2023
+#7 Requested Time out
+
+Sent: Ping #8 Wed Oct 25 19:41:27 2023
+Receiveb'PING #8 WED OCT 25 19:41:27 2023'
+9.036064147949219e-05
+Sent: Ping #9 Wed Oct 25 19:41:27 2023
+Receiveb'PING #9 WED OCT 25 19:41:27 2023'
+4.267692565917969e-05
+Minimum RTT: 4.267692565917969e-05
+Maximum RTT: 9.036064147949219e-05
+Average RTT: 7.32421875e-05
+Packet Loss Rate: 50.0 %
+closing socket

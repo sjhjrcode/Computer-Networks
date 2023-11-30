@@ -1,0 +1,226 @@
+Pinging 203.0.113.0 using Python:
+Pinging 203.0.113.0 using Python:
+
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+
+Final Min RTT: inf ms,
+Final Max RTT: -inf ms, 
+Final Avg RTT: 0 ms, 
+Final Packet Loss Rate: 100.0%
+Pinging 10.255.255.255 using Python:
+Pinging 10.255.255.255 using Python:
+
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+Current Delay:  Destination Network Unreachable
+
+Final Min RTT: inf ms,
+Final Max RTT: -inf ms, 
+Final Avg RTT: 0 ms, 
+Final Packet Loss Rate: 100.0%
+Pinging 127.0.0.1 using Python:
+Pinging 127.0.0.1 using Python:
+
+Current Delay:  6.413459777832031e-05
+
+Min RTT: 0.06413459777832031 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.06413459777832031 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.1961669921875e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.053048133850097656 ms, Packet Loss Rate: 0.0%
+Current Delay:  6.031990051269531e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.05547205607096354 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.649162292480469e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.05322694778442383 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.363059997558594e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.05130767822265625 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.887580871582031e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.050902366638183594 ms, Packet Loss Rate: 0.0%
+Current Delay:  5.221366882324219e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.051089695521763394 ms, Packet Loss Rate: 0.0%
+Current Delay:  5.054473876953125e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.051021575927734375 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.57763671875e-05
+
+Min RTT: 0.041961669921875 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.050438774956597224 ms, Packet Loss Rate: 0.0%
+Current Delay:  4.0531158447265625e-05
+
+Min RTT: 0.040531158447265625 ms, Max RTT: 0.06413459777832031 ms, Avg RTT: 0.04944801330566406 ms, Packet Loss Rate: 0.0%
+
+Final Min RTT: 0.040531158447265625 ms,
+Final Max RTT: 0.06413459777832031 ms, 
+Final Avg RTT: 0.04944801330566406 ms, 
+Final Packet Loss Rate: 0.0%
+Pinging www.google.com using Python:
+Pinging 142.250.190.132 using Python:
+
+Current Delay:  0.038442134857177734
+
+Min RTT: 38.442134857177734 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 38.442134857177734 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.035938262939453125
+
+Min RTT: 35.938262939453125 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 37.19019889831543 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03512406349182129
+
+Min RTT: 35.12406349182129 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 36.50148709615072 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03574013710021973
+
+Min RTT: 35.12406349182129 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 36.31114959716797 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.035515546798706055
+
+Min RTT: 35.12406349182129 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 36.152029037475586 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.034799814224243164
+
+Min RTT: 34.799814224243164 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 35.92665990193685 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03518033027648926
+
+Min RTT: 34.799814224243164 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 35.82004138401577 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03560209274291992
+
+Min RTT: 34.799814224243164 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 35.792797803878784 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03551363945007324
+
+Min RTT: 34.799814224243164 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 35.761780209011505 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03598666191101074
+
+Min RTT: 34.799814224243164 ms, Max RTT: 38.442134857177734 ms, Avg RTT: 35.784268379211426 ms, Packet Loss Rate: 0.0%
+
+Final Min RTT: 34.799814224243164 ms,
+Final Max RTT: 38.442134857177734 ms, 
+Final Avg RTT: 35.784268379211426 ms, 
+Final Packet Loss Rate: 0.0%
+Pinging www.bbc.co.uk using Python:
+Pinging 151.101.68.81 using Python:
+
+Current Delay:  0.022919893264770508
+
+Min RTT: 22.919893264770508 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 22.919893264770508 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.021039485931396484
+
+Min RTT: 21.039485931396484 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.979689598083496 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.021939516067504883
+
+Min RTT: 21.039485931396484 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.966298421223957 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02103257179260254
+
+Min RTT: 21.03257179260254 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.732866764068604 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.021026134490966797
+
+Min RTT: 21.026134490966797 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.591520309448242 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02114725112915039
+
+Min RTT: 21.026134490966797 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.517475446065266 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.021224498748779297
+
+Min RTT: 21.026134490966797 ms, Max RTT: 22.919893264770508 ms, Avg RTT: 21.47562163216727 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02397012710571289
+
+Min RTT: 21.026134490966797 ms, Max RTT: 23.97012710571289 ms, Avg RTT: 21.787434816360474 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.020894765853881836
+
+Min RTT: 20.894765853881836 ms, Max RTT: 23.97012710571289 ms, Avg RTT: 21.688249376085068 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.021796703338623047
+
+Min RTT: 20.894765853881836 ms, Max RTT: 23.97012710571289 ms, Avg RTT: 21.699094772338867 ms, Packet Loss Rate: 0.0%
+
+Final Min RTT: 20.894765853881836 ms,
+Final Max RTT: 23.97012710571289 ms, 
+Final Avg RTT: 21.699094772338867 ms, 
+Final Packet Loss Rate: 0.0%
+Pinging www.abc.net.au using Python:
+Pinging 23.220.108.130 using Python:
+
+Current Delay:  0.02497243881225586
+
+Min RTT: 24.97243881225586 ms, Max RTT: 24.97243881225586 ms, Avg RTT: 24.97243881225586 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02484750747680664
+
+Min RTT: 24.84750747680664 ms, Max RTT: 24.97243881225586 ms, Avg RTT: 24.90997314453125 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.025912046432495117
+
+Min RTT: 24.84750747680664 ms, Max RTT: 25.912046432495117 ms, Avg RTT: 25.24399757385254 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02437114715576172
+
+Min RTT: 24.37114715576172 ms, Max RTT: 25.912046432495117 ms, Avg RTT: 25.025784969329834 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.024129390716552734
+
+Min RTT: 24.129390716552734 ms, Max RTT: 25.912046432495117 ms, Avg RTT: 24.846506118774414 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02455306053161621
+
+Min RTT: 24.129390716552734 ms, Max RTT: 25.912046432495117 ms, Avg RTT: 24.797598520914715 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.024393081665039062
+
+Min RTT: 24.129390716552734 ms, Max RTT: 25.912046432495117 ms, Avg RTT: 24.739810398646764 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.028493404388427734
+
+Min RTT: 24.129390716552734 ms, Max RTT: 28.493404388427734 ms, Avg RTT: 25.209009647369385 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.025057554244995117
+
+Min RTT: 24.129390716552734 ms, Max RTT: 28.493404388427734 ms, Avg RTT: 25.1921812693278 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02411961555480957
+
+Min RTT: 24.11961555480957 ms, Max RTT: 28.493404388427734 ms, Avg RTT: 25.084924697875977 ms, Packet Loss Rate: 0.0%
+
+Final Min RTT: 24.11961555480957 ms,
+Final Max RTT: 28.493404388427734 ms, 
+Final Avg RTT: 25.084924697875977 ms, 
+Final Packet Loss Rate: 0.0%
+Pinging www.dstv.com using Python:
+Pinging 104.16.169.89 using Python:
+
+Current Delay:  0.026973962783813477
+
+Min RTT: 26.973962783813477 ms, Max RTT: 26.973962783813477 ms, Avg RTT: 26.973962783813477 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02681565284729004
+
+Min RTT: 26.81565284729004 ms, Max RTT: 26.973962783813477 ms, Avg RTT: 26.894807815551758 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.026946306228637695
+
+Min RTT: 26.81565284729004 ms, Max RTT: 26.973962783813477 ms, Avg RTT: 26.91197395324707 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02703237533569336
+
+Min RTT: 26.81565284729004 ms, Max RTT: 27.03237533569336 ms, Avg RTT: 26.942074298858643 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.02629995346069336
+
+Min RTT: 26.29995346069336 ms, Max RTT: 27.03237533569336 ms, Avg RTT: 26.813650131225586 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.026736736297607422
+
+Min RTT: 26.29995346069336 ms, Max RTT: 27.03237533569336 ms, Avg RTT: 26.80083115895589 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.026851415634155273
+
+Min RTT: 26.29995346069336 ms, Max RTT: 27.03237533569336 ms, Avg RTT: 26.808057512555802 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.03261828422546387
+
+Min RTT: 26.29995346069336 ms, Max RTT: 32.61828422546387 ms, Avg RTT: 27.53433585166931 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.028735876083374023
+
+Min RTT: 26.29995346069336 ms, Max RTT: 32.61828422546387 ms, Avg RTT: 27.667840321858723 ms, Packet Loss Rate: 0.0%
+Current Delay:  0.026163578033447266
+
+Min RTT: 26.163578033447266 ms, Max RTT: 32.61828422546387 ms, Avg RTT: 27.517414093017578 ms, Packet Loss Rate: 0.0%
+
+Final Min RTT: 26.163578033447266 ms,
+Final Max RTT: 32.61828422546387 ms, 
+Final Avg RTT: 27.517414093017578 ms, 
+Final Packet Loss Rate: 0.0%

@@ -1,0 +1,31 @@
+Sent: Ping #0 Wed Oct 25 19:32:03 2023
+Receive(b'PING #0 WED OCT 25 19:32:03 2023', ('127.0.0.1', 12000))
+0.00010156631469726562
+Sent: Ping #1 Wed Oct 25 19:32:03 2023
+#1 Requested Time out
+
+Sent: Ping #2 Wed Oct 25 19:32:08 2023
+Receive(b'PING #2 WED OCT 25 19:32:08 2023', ('127.0.0.1', 12000))
+0.00010418891906738281
+Sent: Ping #3 Wed Oct 25 19:32:08 2023
+#3 Requested Time out
+
+Sent: Ping #4 Wed Oct 25 19:32:13 2023
+Receive(b'PING #4 WED OCT 25 19:32:13 2023', ('127.0.0.1', 12000))
+9.369850158691406e-05
+Sent: Ping #5 Wed Oct 25 19:32:13 2023
+Receive(b'PING #5 WED OCT 25 19:32:13 2023', ('127.0.0.1', 12000))
+3.3855438232421875e-05
+Sent: Ping #6 Wed Oct 25 19:32:13 2023
+Receive(b'PING #6 WED OCT 25 19:32:13 2023', ('127.0.0.1', 12000))
+2.765655517578125e-05
+Sent: Ping #7 Wed Oct 25 19:32:13 2023
+Receive(b'PING #7 WED OCT 25 19:32:13 2023', ('127.0.0.1', 12000))
+2.6226043701171875e-05
+Sent: Ping #8 Wed Oct 25 19:32:13 2023
+#8 Requested Time out
+
+Sent: Ping #9 Wed Oct 25 19:32:18 2023
+#9 Requested Time out
+
+closing socket
